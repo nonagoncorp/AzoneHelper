@@ -3,6 +3,8 @@
 Example usage:
 
 ```
+from azonehelper import AzoneHelper
+
 tipIDs = {
 	"WTHR":["473541"]
 }
